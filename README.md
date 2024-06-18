@@ -9,9 +9,9 @@
 - ⚡ Fun fact : **A social butterfly**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samridhi1412&show_icons=true&locale=en" alt="samridhi1412" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samridhi1412&show_icons=true&locale=en&theme=buefy" alt="shasss447" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samridhi1412&" alt="samridhi1412" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samridhi1412&theme=buefy" alt="samridhi1412" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
