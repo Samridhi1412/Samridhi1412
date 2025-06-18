@@ -7,6 +7,33 @@
 - 📫 Contact me here **samridhimishra1412@gmail.com**
 
 - ⚡ Fun fact : **A social butterfly**
+<h3 align="left">💼 Technical Skills</h3>
+
+-  **Languages:** Python, C++
+-  **Tools & Platforms:** Git, GitHub, VS Code, Tableau  
+-  **Databases:** MySQL  
+-  **Other Skills:** Excel, Machine Learning, Numpy, Pandas
+
+<h3 align="left">🚀 Projects </h3>
+
+-  **🕹 Flappy Bird (Reinforcement Learning):**  
+   Achieved **66 score** & **4+ min** gameplay; improved training by **30%** using Experience Replay.  
+   🔗 [Project Link](https://github.com/Samridhi1412/FlappyBird.git)
+-  **📦 Inventory Forecasting & Data Automation:**  
+   Reduced stockouts/overstocking by **30%**; boosted B2B/B2C data efficiency by **40%**.  
+   🔗 [Project Link](https://github.com/Samridhi1412/Big-Bazaar-Sales-Intelligence-Dashboard.git)
+-  **📊 Stakeholder Insights Dashboard (Tableau):**  
+   Visualized **₹51.92B** premium, **₹37.09B** equity; analyzed data across **10+ dimensions** from **2014–2024**.  
+   🔗 [Dashboard Link](https://github.com/Samridhi1412/Stakeholder-Insights-and-Performance-Dashboard.git) 
+
+<h3 align="left">🏆 Achievements & Interests</h3>
+
+- 🚀 Selected for **Keploy API Fellowship**
+- 🎭 Bagged the **3rd** position at **IIT Kharagpur’s Spring Fest** 
+- 💡 Interests: Data Analytics, Problem Solving, Dramatics, 
+
+
+  
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samridhi1412&show_icons=true&locale=en&theme=buefy" alt="shasss447" /></p>
